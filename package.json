@@ -1,0 +1,32 @@
+{
+  "name": "hello3dmcp-frontend",
+  "version": "0.0.0",
+  "description": "3D interactive model visualization built with Three.js, connects to MCP server via WebSocket",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "threejs",
+    "3d",
+    "visualization",
+    "websocket"
+  ],
+  "author": "Douglass Turner",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "three": "^0.181.1"
+  },
+  "devDependencies": {
+    "sass": "^1.94.1",
+    "vite": "^7.2.2"
+  }
+}
+
