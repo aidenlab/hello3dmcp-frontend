@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "hello3dmcp-frontend",
+			"path": "."
+		},
+		{
+			"name": "Hello3DLLM",
+			"path": "/Users/turner/MCPDevelopment/Hello3DLLM"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/node_modules": true
+		}
+	}
+}
+
